@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.callaghan109.twa",
-        "sha256_cert_fingerprints": ["3D:9A:0C:5F:7C:74:74:EE:C9:50:8B:DB:AD:F0:ED:2A:9A:85:75:0C:DA:01:85:63:56:3B:19:17:04:07:53:3A"]
+        "sha256_cert_fingerprints": ["8F:CE:73:80:D1:57:E1:A7:4C:96:03:11:97:DA:BE:D6:AA:35:24:08:19:02:77:59:4E:72:70:5B:15:7F:75:3B"]
       }
     }]
