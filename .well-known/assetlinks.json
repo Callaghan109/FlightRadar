@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.callaghan109.twa",
+        "sha256_cert_fingerprints": ["3D:9A:0C:5F:7C:74:74:EE:C9:50:8B:DB:AD:F0:ED:2A:9A:85:75:0C:DA:01:85:63:56:3B:19:17:04:07:53:3A"]
+      }
+    }]
